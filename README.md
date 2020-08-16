@@ -1,4 +1,6 @@
-### Bons ventos te trouxeram até aqui!
+## Bons ventos te trouxeram até aqui!
+
+---
 
 Muito prazer! Me chamo Dorly, tenho 29 anos e trabalho na plataforma [Rocketseat](https://rocketseat.com.br/), ajudando desenvolvedores a chegarem no próximo nível. Neste momento, sou responsável por desenvolver um programa de formação de mentores chamado Space Squad, direcionado aos ex-alunos dos bootcamps da plataforma. 
 
